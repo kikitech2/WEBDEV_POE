@@ -161,32 +161,34 @@ There has been difficulty to upload the css on a mobile device and therefore i h
 
 # Service page in Full version.
 
-<img width="1853" height="901" alt="image" src="https://github.com/user-attachments/assets/f21445d3-64d7-440e-bdb5-567e8514b864" />
+<img width="1872" height="871" alt="image" src="https://github.com/user-attachments/assets/66d9a155-4b5f-492e-9f3d-b3d9f0adbaba" />
 
 # Service page in Half version.
 
-<img width="862" height="876" alt="image" src="https://github.com/user-attachments/assets/6da1cebf-671e-4286-995f-a0fde95253d4" />
+<img width="892" height="900" alt="image" src="https://github.com/user-attachments/assets/6f3f6e9a-bf64-4efc-86b1-08f0b1cb5beb" />
 
 
 # Appointmemts page in Full version.
 
-<img width="1845" height="902" alt="image" src="https://github.com/user-attachments/assets/43e399ff-52f5-463b-865a-aa719a10eb92" />
+<img width="1810" height="877" alt="image" src="https://github.com/user-attachments/assets/6a1328a6-8b62-4f73-b3ef-374c461e6772" />
 
 # Appointmemts page in Half version.
 
-<img width="877" height="891" alt="image" src="https://github.com/user-attachments/assets/1b7bc4b4-2b00-4f0f-a150-6bb56dc6a0e4" />
+<img width="927" height="895" alt="image" src="https://github.com/user-attachments/assets/31026ed3-48fe-4ee2-a8fa-c6d649923d54" />
+
 
 
 # Contact page in Full version.
 
-<img width="1846" height="900" alt="image" src="https://github.com/user-attachments/assets/e039d703-38e7-4810-a9eb-0675e286f83a" />
+<img width="1853" height="891" alt="image" src="https://github.com/user-attachments/assets/54be4715-f7d0-4aab-a20e-af56f221901f" />
 
 # Contact page in Half version.
-<img width="897" height="888" alt="image" src="https://github.com/user-attachments/assets/ad34347a-fc3a-4ba7-b803-52f1cd45883e" />
+<img width="903" height="896" alt="image" src="https://github.com/user-attachments/assets/41fcbf67-6abe-4fde-b9e1-5919620b469c" />
 
 
 # Quarter screen version of the index page.
-<img width="763" height="901" alt="image" src="https://github.com/user-attachments/assets/5b4563c7-f87c-42ba-82a3-8b4a88e89f29" />
+<img width="766" height="907" alt="image" src="https://github.com/user-attachments/assets/efd2618b-cdad-4be8-ab9b-035d6e1652cb" />
+
 
 
 
