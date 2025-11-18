@@ -129,19 +129,21 @@ I have screenshot evidents of how the webiste will look on different screen sett
 There has been difficulty to upload the css on a mobile device and therefore i have made the screen to be quarter size which is the closest resemblance to a mobile screen.
 
 # Index page in Full version.
-<img width="1886" height="917" alt="image" src="https://github.com/user-attachments/assets/7109e602-96d3-4541-9ce9-78de873b3093" />
-<img width="1872" height="906" alt="image" src="https://github.com/user-attachments/assets/9fdcce29-97ca-4042-a294-06da15ddf12e" />
+<img width="1877" height="895" alt="image" src="https://github.com/user-attachments/assets/5273c8b8-bb44-4080-993e-77dee951115b" />
+<img width="1877" height="528" alt="image" src="https://github.com/user-attachments/assets/661e30c2-e62f-4fa7-b116-829c9a49bfe8" />
+
+
 
 # Index page in Half version.
-<img width="907" height="902" alt="image" src="https://github.com/user-attachments/assets/15bb62f8-e26a-4716-9b67-9a0d895f1a2d" />
+<img width="913" height="886" alt="image" src="https://github.com/user-attachments/assets/fcfa75f0-85b1-4a85-b1e1-5d5b30751870" />
 
-<img width="923" height="901" alt="image" src="https://github.com/user-attachments/assets/84f75b1c-db37-4ca0-981d-cc7f1bec4880" />
-<img width="920" height="903" alt="image" src="https://github.com/user-attachments/assets/e0dff256-6f55-4c98-aaa5-6a6c9e10238b" />
 
-<img width="903" height="876" alt="image" src="https://github.com/user-attachments/assets/36342f40-beac-4f99-ba66-40880e88759f" />
+<img width="873" height="903" alt="image" src="https://github.com/user-attachments/assets/c44e26db-ee67-487b-89d6-4058a7a01e36" />
 
-<img width="888" height="892" alt="image" src="https://github.com/user-attachments/assets/63974369-105e-42bd-8fb2-72308e5fde6d" />
+<img width="922" height="896" alt="image" src="https://github.com/user-attachments/assets/f89aeaaa-efd7-415e-bdca-d69c14f2b9f5" />
 
+
+<img width="898" height="896" alt="image" src="https://github.com/user-attachments/assets/3fd507f2-949e-4dd2-8d76-5843aa1dca09" />
 
 
 
