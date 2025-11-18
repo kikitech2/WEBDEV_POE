@@ -9,7 +9,7 @@ HopeCare Cancer Support & Awareness Centre
 
 
 # 1.	BRIEF HISTORY (PART 1)
-Dr. Louis Kathan founded Kathan Oncology, an organization specializing in neuro-oncology and treating head and neck cancers with advanced methods like stereotactic radiotherapy. Operating since 2009 at Life Vincent Pallotti Hospital in Cape Town, Dr. Kathan provides professional advice and emotional support to his patients.
+HopeCare Cancer Support and Awareness Centre is an organization specializing in comprehensive psycological, physical and spiritual support services for treating Cancers patients and their families with advanced methods of using digital practices which gives the members the luxury  of having graphical and real-time experiences on how to fight cancer. Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our patients.
 Mission and Vision Statement
 
 •	His practice focuses on offering technologically advanced, internationally aligned treatments. Kathan Oncology's mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families. Their vision is to be a leader in innovative, high-quality cancer services, treating both cancerous and non-cancerous conditions with a collaborative team of neurosurgeons. 
