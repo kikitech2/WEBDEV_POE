@@ -108,7 +108,8 @@ HopeCare Cancer Support & Awareness Centre's sitemap ( Digram created in word do
 
 
 # NEW UPDATED Sitemap - NEW UPDATE* PART 2
-<img width="128" height="115" alt="image" src="https://github.com/user-attachments/assets/f665f45a-38be-452c-b05c-afba654ef464" />
+<img width="886" height="618" alt="image" src="https://github.com/user-attachments/assets/b45c9a01-383d-49c5-9f5e-ba221576b845" />
+
 
 
 
