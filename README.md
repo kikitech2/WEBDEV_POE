@@ -12,7 +12,7 @@ HopeCare Cancer Support & Awareness Centre
 HopeCare Cancer Support and Awareness Centre is an organization specializing in comprehensive psycological, physical and spiritual support services for treating Cancers patients and their families with advanced methods of using digital practices which gives the members the luxury  of having graphical and real-time experiences on how to fight cancer. Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our patients.
 Mission and Vision Statement
 
-•	His practice focuses on offering technologically advanced, internationally aligned treatments. Kathan Oncology's mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families. Their vision is to be a leader in innovative, high-quality cancer services, treating both cancerous and non-cancerous conditions with a collaborative team of neurosurgeons. 
+HopeCare focuses on offering technologically advanced, internationally aligned support services. At HopeCare, our mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families. Our vision is to be a leader in innovative, high-quality cancer services, treating both cancerous and non-cancerous conditions with a collaborative team of professional doctors, therapists, guest speakers, the community, and our fitness instructors. 
 
  # Target Audience:(PART 1)
  
@@ -29,7 +29,7 @@ Mission and Vision Statement
 # 3.	Strengths and weakness (PART 1)
    
 •	The website features a modern colour scheme and artistic navigation, but it lacks a variety of images. It primarily shows the owner, his business, and its location.
-•	Dr. Kathan also manages a family doctor business with a poorly developed website that has received complaints regarding reception staff and inexperienced doctors.
+•	I have analysed an oncology website featuring Dr. Kathan who manages a family doctor business with a poorly developed website that has received complaints regarding reception staff and inexperienced doctors. His webiste guided me on how to build my own cancer website as well as important information about cancer and how to embrace cancer patients.
 •	The main website only displays four patient reviews, making it appear inactive. It needs regular updates to include more feedback and reflect ongoing operations.
 •	The site provides valuable content, including news articles on the latest radiotherapy technology and explanations of various cancer therapies and treatments.
 
@@ -77,7 +77,7 @@ Total: 6 weeks
 # Part 1 Details - (PART 1)
 
 - Building the foundation with project initiation and planning: Propsal content
-- Taregt Organisation : A small business owner health care services
+- Taregt Organisation : A small business owner cancer support services
 - Website Project Propsal content: Word Document
 - Technical Requirements - HTML & CSS
 - Budget- Visible in the propsal
@@ -100,7 +100,7 @@ Total: 6 weeks
 
 # Sitemap - NEW UPDATE* PART 2
 
-Dr. Louis Kathan & Kathan Oncology sitemap ( Digram created in word document) (PART 1)
+HopeCare Cancer Support & Awareness Centre's sitemap ( Digram created in word document) (PART 1)
 (PART 2) I have made changes to the sitemaps layout . The sitemap originally had images and a video on the index page and now i have added its location, services, social media links as well as the operating hours. On the about page it only displays the merchandise images and content about the company. I have added two new web pages where one displays the service content on the services page and the other displays booking appointments on the appointments page. The contact page only has the enquiry information since the location has now been moved to the index page. The first image is the origninal sitemmap that i have created in word document and the one beneath the origninal is the new updated version of the sitemap.
 
 # Origninal Sitemap - NEW UPDATE* PART 2
