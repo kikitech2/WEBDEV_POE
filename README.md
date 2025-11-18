@@ -1,11 +1,11 @@
 # WEBDE_PART1 ( README HAS BEEN UPDATED FOR PART 2)
-#Project Titel - Dr. Louis Kathan & Kathan Oncology
+#Project Titel - HopeCare Cancer Support & Awareness Centre
 
 #Student information - ST10464927; Smith, K
 
 # Project Overview - PROPOSAL CONTENT 
 
-Dr. David Kathan & Dr. Louis Kathan family practitioners
+HopeCare Cancer Support & Awareness Centre
 
 
 # 1.	BRIEF HISTORY (PART 1)
