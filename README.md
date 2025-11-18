@@ -149,14 +149,15 @@ There has been difficulty to upload the css on a mobile device and therefore i h
 
 # About page in Full version.
 
-<img width="1865" height="908" alt="image" src="https://github.com/user-attachments/assets/388e2297-edf0-40ff-99f5-affc300a383e" />
+<img width="1882" height="916" alt="image" src="https://github.com/user-attachments/assets/3c04edc6-e836-4185-9aff-b618af42c019" />
 
-<img width="1846" height="890" alt="image" src="https://github.com/user-attachments/assets/50a13594-1c13-4fbb-800c-5a81c74bd4bd" />
+
+<img width="1863" height="868" alt="image" src="https://github.com/user-attachments/assets/d680ba57-f0ba-43e1-b6b7-955a6b3e9b24" />
 
 # About page in Half version.
-<img width="907" height="891" alt="image" src="https://github.com/user-attachments/assets/16c1c7ab-1f66-40cc-91ba-117ab736a539" />
+<img width="923" height="881" alt="image" src="https://github.com/user-attachments/assets/03d89048-794d-45cf-a7cb-035e3a8f195b" />
 
-<img width="913" height="870" alt="image" src="https://github.com/user-attachments/assets/887f39be-ccb8-4e2c-92bd-d9851d16bfcf" />
+<img width="915" height="882" alt="image" src="https://github.com/user-attachments/assets/e6676bc4-0e6e-44de-9989-4571afd3e2f0" />
 
 # Service page in Full version.
 
