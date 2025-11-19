@@ -1,9 +1,12 @@
-# WEBDE_PART1 ( README HAS BEEN UPDATED FOR PART 2)
+# WEBDE_PART1 ( README HAS BEEN UPDATED FOR PART 2 & 3)
 #Project Titel - HopeCare Cancer Support & Awareness Centre
+(There is now a new project titel that replaces the old one.)
 
 #Student information - ST10464927; Smith, K
+(No change in the student information.)
 
 # Project Overview - PROPOSAL CONTENT 
+(Proposal content has been changed and updated which was adviced by my lecturer.)
 
 HopeCare Cancer Support & Awareness Centre
 
@@ -116,7 +119,17 @@ HopeCare Cancer Support & Awareness Centre's sitemap ( Digram created in word do
 
 
 
-# Changelog - NEW UPDATE* PART 2 
+# Changelog - NEW UPDATE* PART 3
+
+*Project Titel: 
+
+With the help from my lecturer, I have decided to change my proposal content as there was a slight misundertanding of the expectations about the POE. I have therefore renamed my Proposal Titel to HopeCare Cancer Support & Awareness Centre to make it my original work.(PART 3)
+My student information remains the same.
+
+*Proposal Overview:
+
+With the help from my lecturer, I had to create my analyse of what my business is about. I mentioned that i have changed the project titel of my website and the prosoal content to HopeCare Cancer Support & Awareness centre. It is an organization specializing in comprehensive psycological, physical and spiritual support services for treating Cancers patients and their families with advanced methods of using digital practices which gives the members the luxury  of having graphical and real-time experiences on how to fight cancer. Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our patients.
+The Mission and Vision Statement of HopeCare focuses on offering technologically advanced, internationally aligned support services. Our mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families. Our vision is to be a leader in innovative, high-quality cancer services, treating both cancerous and non-cancerous conditions with a collaborative team of professional doctors, therapists, guest speakers, the community, and our fitness instructors. (PART 3)
 
 Website movement tracking (KPIs). (PART 1)
 
