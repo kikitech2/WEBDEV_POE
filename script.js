@@ -1,9 +1,9 @@
-<!-- NEW Javascript file extension has been added to PART 3.-->
+// --- NEW Javascript file extension added to Part 3 ---
 document.addEventListener('DOMContentLoaded', function() {
     
-    // --- GENERAL UTILITY FUNCTIONS (Used by multiple forms) ---
+    // --- New form elements that displays an error message for validation of the user information ---
 
-    // 1. Helper function to display form errors (for high-scoring validation)
+    // This function displays the form errors.
     function displayError(inputElement, message) {
         let errorElement = inputElement.nextElementSibling;
         if (!errorElement || !errorElement.classList.contains('error-message')) {
@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
         inputElement.classList.add('input-error'); // Add CSS class for red border
     }
 
-    // 2. Helper function to clear form errors
+    // This function is to clear form errors.
     function clearError(inputElement) {
         inputElement.classList.remove('input-error');
         const errorElement = inputElement.nextElementSibling;
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
 
-    // --- 1. INDEX.HTML FUNCTIONALITY (Smooth Scroll & Fade-In Animation) ---
+    // --- INDEX.HTML functionality for Smooth Scroll & Fade-In Animation ---
 
     // Smooth Scroll for anchor links
     const scrollLinks = document.querySelectorAll('a[href^="#"]');
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Intersection Observer for the Fade-In effect (for high-scoring interactivity)
+    // Intersection Observer for the Fade-In effect for high-scoring interactivity
     const faders = document.querySelectorAll('.fade-in');
     const appearOptions = { threshold: 0, rootMargin: "0px 0px -100px 0px" };
 
@@ -66,14 +66,14 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
 
-    // --- 2. ABOUT.HTML FUNCTIONALITY (Gallery Lightbox - Interactive Element) ---
+    // --- ABOUT.HTML functionality for the Gallery Lightbox & Interactive Element ---
 
     const lightbox = document.getElementById('lightbox');
     const lightboxImage = document.getElementById('lightboxImage');
     const closeBtn = document.querySelector('.close-btn');
     const galleryImages = document.querySelectorAll('.about-images-container img');
 
-    if (lightbox) { // Check if we are on the page that needs the lightbox
+    if (lightbox) { // Checks if we are on the page that needs the lightbox
         galleryImages.forEach(image => {
             image.addEventListener('click', () => {
                 lightboxImage.src = image.src;
@@ -81,12 +81,12 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         });
 
-        // Close when 'X' is clicked
+        // Closes when 'X' is clicked
         closeBtn.addEventListener('click', () => {
             lightbox.style.display = 'none';
         });
 
-        // Close if clicking outside the image
+        // Closes when the user clicks outside the image
         window.addEventListener('click', (e) => {
             if (e.target === lightbox) {
                 lightbox.style.display = 'none';
@@ -95,9 +95,9 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
 
-    // --- 3. SERVICES.HTML FUNCTIONALITY (Dynamic Content & Search/Filter) ---
+    // --- SERVICES.HTML functionality for the Dynamic content & Search/Filter ---
 
-    // Data Source (Replaces hardcoded HTML)
+    // Data Source 
     const serviceData = [
         { id: 1, title: "Work Shops", type: "education", description: "Our Support centre promotes work functions that invites special Cancer doctors to come and discuss the radiotherapy treatments towards first time cancer patients...", icon: "https://icons.veryicon.com/png/o/healthcate-medical/medical-icon/male-doctor.png" },
         { id: 2, title: "Guest Speakers", type: "education", description: "Our support centre promotes work functions that invites special Cancer doctors and authors to discuss and issue books written by experienced doctors and realistic cancer stories...", icon: "https://cdn-icons-png.flaticon.com/512/2909/2909745.png" },
@@ -131,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function filterAndSearchServices() {
-        if (!searchInput) return; // Exit if not on the services page
+        if (!searchInput) return; // Exits if the user is not on the services page
 
         const searchTerm = searchInput.value.toLowerCase();
         const filterType = filterSelect.value;
@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
 
-    // --- 4. APPOINTMENT.HTML FUNCTIONALITY (Form Validation & Enquiry Process Response - 10 Marks) ---
+    // --- APPOINTMENT.HTML functionality for the form validation & Enquiry process ---
 
     const appointmentForm = document.getElementById('appointmentForm');
     const appointmentResponseDiv = document.getElementById('appointmentResponse');
@@ -175,19 +175,19 @@ document.addEventListener('DOMContentLoaded', function() {
                     return;
                 }
 
-                // Specific Validation: Email format check
+                // Email validation
                 if (input.type === 'email' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(input.value)) {
                     displayError(input, 'Please enter a valid email address.');
                     isValid = false;
                 }
                 
-                // Specific Validation: Phone number format (simple)
+                // Phone number validation
                 if (input.id === 'phone' && !/^\+?[0-9\s-]{10,}$/.test(input.value)) {
                     displayError(input, 'Please enter a valid phone number (min 10 digits).');
                     isValid = false;
                 }
                 
-                // Specific Validation: Future Date Check
+                // Scheduling validation
                 if (input.type === 'date') {
                     const today = new Date().toISOString().split('T')[0];
                     if (input.value < today) {
@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const service = formData.get('service');
             let responseHTML = `<h2>Appointment Confirmed, ${formData.get('name')}!</h2>`;
             
-            // Custom logic for the 10-mark "Process Response"
+            // Enquiry Response of the user"
             switch (service) {
                 case 'consultation': 
                     responseHTML += '<p>Thank you for booking a **Work Shop**. We will contact you within 24 hours. **Expected response time for workshop availability is 1 business day.**</p>';
@@ -232,7 +232,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             if (validateAppointmentForm()) {
                 
-                // Success - hide form and display response
+                // displays response
                 appointmentForm.style.opacity = '0';
                 appointmentForm.style.height = '0';
                 appointmentForm.style.overflow = 'hidden';
@@ -243,12 +243,12 @@ document.addEventListener('DOMContentLoaded', function() {
                 appointmentResponseDiv.innerHTML = responseContent;
                 appointmentResponseDiv.style.display = 'block';
 
-            } // If validation fails, errors are displayed by helper functions
+            } // If validation fails, errors are displayed by the supporting functions above
         });
     }
 
 
-    // --- 5. CONTACT.HTML FUNCTIONALITY (Validation & Contact Process Email - 10 Marks) ---
+    // --- CONTACT.HTML functionality for Validation of the Contact process  ---
 
     const contactForm = document.getElementById('contactForm');
     const contactResponseDiv = document.getElementById('contactResponse');
@@ -261,11 +261,11 @@ document.addEventListener('DOMContentLoaded', function() {
             const email = document.getElementById('email');
             const message = document.getElementById('message');
             
-            // Basic required checks (using the general helper functions)
+            // Validation checks 
             if (!name.value.trim()) { displayError(name, 'Full name is required.'); isValid = false; } else { clearError(name); }
             if (!email.value.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.value)) { displayError(email, 'A valid email is required.'); isValid = false; } else { clearError(email); }
             
-            // Message length check (Crucial for high validation marks)
+            // Message length check 
             if (message.value.trim().length < 20) {
                 displayError(message, 'Message must be at least 20 characters long.');
                 isValid = false;
@@ -289,7 +289,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 const subject = `New Contact Enquiry from ${senderName}`;
                 const body = `Sender Name: ${senderName}\nSender Email: ${senderEmail}\n\nMessage:\n${messageBody}`;
                 
-                // Construct the mailto link (The Contact Process Email fulfillment)
+                // Constructor for the mailto link 
                 const mailtoLink = `mailto:${recipientEmail}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
                 // Trigger the email client
@@ -306,7 +306,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
 
-        // --- 6. INTERACTIVE MAP (Leaflet Implementation - Third Party Tool) ---
+        // --- i used ai to help me create an interactive map with is the Leaflet implementation ---
         
         // This checks if the Leaflet library is loaded and the map container exists
         if (typeof L !== 'undefined' && document.getElementById('interactiveMap')) {
