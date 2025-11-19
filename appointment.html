@@ -1,18 +1,20 @@
-<!--NEW UPDATE* I have updated and made changes to my appointments page for part 2 to enhance the features and fuctionalities of the new CSS Style Sheet that has now been included. -->
+<!-- I have updated and made changes to my appointments page for part 2 to enhance the features and fuctionalities of the new CSS Style Sheet that has now been included. -->
 <!DOCTYPE html>
 <html lang="en">
-<!--  NEW UPDATE* APPOINTMENT PAGE ADDED TO PART 2-->
+<!--  NEW APPOINTMENT PAGE ADDED TO PART 2-->
   <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Book Appointment | MediCare</title>
-<!--  NEW UPDATE* External CSS Style Sheet link added for PART 2-->
+   <title>Book Your Appointment | HopeCare Cancer Support & Enquiry</title>
+    <meta name="description" content="Use the HopeCare online form to book your appointment for workshops, therapy, or consultations. Our staff will contact you to confirm the date and time.">
+    <meta name="keywords" content="Book Cancer Appointment, Cancer Consultation, Schedule Therapy, Online Booking, HopeCare Appointment Form">
+<!--  NEW External CSS Style Sheet link added for PART 2-->
    <link rel="stylesheet" href="style.css">
  </head>
 <body>
-<!-- NEW UPDATE* Navigation bar now consists of 5 Webpages which was previously 3 web pages. I have included two new pages which are the Service and Appointment page. (PART 2)-->
+<!-- NEW Navigation bar now consists of 5 Webpages which was previously 3 web pages. I have included two new pages which are the Service and Appointment page. (PART 2)-->
   <header class="navbar">
-    <img class="logo-image" src="https://th.bing.com/th/id/R.ecc79ae5d12af0fe2128d15fe39b49f8?rik=D7W%2bh79a4Vb%2b1g&riu=http%3a%2f%2fcwadvertising.co.za%2fwp-content%2fuploads%2f2019%2f12%2fKathan-logo.jpg&ehk=o6j4Lmg%2borPTRSUj4tSmXeb9tjkORPI8v9NDtwbzL9o%3d&risl=&pid=ImgRaw&r=0.jpg" alt="logo">
+    <img class="logo-image" src="https://cdn-icons-png.flaticon.com/512/6559/6559752.png" alt="logo">
    <nav>
       <ul class="nav-links">
         <li><a href="index.html">Home</a></li>
@@ -24,48 +26,45 @@
     </nav>
   </header>
 
-<!-- NEW UPDATE* Appointment Section has been added to PART 2.-->
+<!-- NEW Appointment Section has been added to PART 2.-->
   <section class="appointment-section fade-in">
-    <h1>Book Your Appointment</h1>
-    <p>Please fill out the form below and our staff will contact you to confirm your appointment.</p>
+    <h1>Book Your Appointment</h1>
+    <p>Please fill out the form below and our staff will contact you to confirm your appointment.</p>
 
-<!-- NEW UPDATE* Appointment layout for when a user inputs their information to book an appointment.-->
-<!-- The user is requested to input their full name, email address and cellphone number.-->
-    <form class="appointment-form" action="#" method="post">
-      <label for="name">Full Name</label>
-      <input type="text" id="name" name="name" placeholder="Your full name" required>
+        <form class="appointment-form" id="appointmentForm">
+      <label for="name">Full Name</label>
+      <input type="text" id="name" name="name" placeholder="Your full name" required>
 
-      <label for="email">Email Address</label>
-      <input type="email" id="email" name="email" placeholder="you@example.com" required>
+      <label for="email">Email Address</label>
+      <input type="email" id="email" name="email" placeholder="you@example.com" required>
 
-      <label for="phone">Phone Number</label>
-      <input type="tel" id="phone" name="phone" placeholder="+27 xxxxxxxxxx" required>
+      <label for="phone">Phone Number</label>
+      <input type="tel" id="phone" name="phone" placeholder="+27 xxxxxxxxxx" required>
 
-<!-- NEW UPDATE* The user is requested to select a service option that they are interested in doing. Styled with css sheet.-->
-<!-- Services is based on the treatments offered by the company that the user wishes to proceed with..-->
-<!-- These services consist of : Radiotherapy, Chemotherapy, Hormonal Therapy, Biological and Supportive Treatments. -->
-      
-      <label for="service">Select Service</label>
-      <select id="service" name="service" required>
-        <option value="">-- Choose a service --</option>
-        <option value="consultation">Radiotherapy Treatments</option>
-        <option value="pharmacy">Chemotherapy Treatments</option>
-        <option value="lab">Hormonal Therapy</option>
-        <option value="vaccination">Biological treatments</option>
-         <option value="vaccination">Supportive Treatments</option>
-      </select>
-<!-- NEW UPDATE* The user can select their preferred or avaliable date and and time when scheduling an appointment before submiting to the company.-->
-      <label for="date">Preferred Date</label>
-      <input type="date" id="date" name="date" required>
+      <label for="service">Select Service</label>
+      <select id="service" name="service" required>
+        <option value="">-- Choose a service --</option>
+        <option value="consultation">Work Shops</option>
+        <option value="pharmacy">Guest Speakers</option>
+        <option value="lab">Hormonal Therapy</option>
+         <option value="vaccination">Supportive Treatments</option>
+      </select>
 
-      <label for="time">Preferred Time</label>
-      <input type="time" id="time" name="time" required>
+      <label for="date">Preferred Date</label>
+      <input type="date" id="date" name="date" required>
 
-      <button type="submit" class="btn primary">Submit Appointment</button>
-    </form>
-  </section>
-<!--NEW UPDATE* Footer has been added. It runs through all the pages. (PART 2) -->
+      <label for="time">Preferred Time</label>
+      <input type="time" id="time" name="time" required>
+
+      <button type="submit" class="btn primary">Submit Appointment</button>
+    </form>
+    
+    <div id="appointmentResponse" class="response-message" style="display:none;">
+    </div>
+  </section>
+<!--NEW Footer has been added. It runs through all the pages. (PART 2) -->
   <footer class="footer fade-in">
   </footer>
+  <script src="script.js"></script>
 </body>
 </html>
