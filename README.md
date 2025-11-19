@@ -7,14 +7,16 @@
 
 (No change in the student information.)
 
-# Project Overview - PROPOSAL CONTENT 
 
+# Project Overview - PROPOSAL CONTENT 
 
 • HopeCare Cancer Support & Awareness Centre
 
 (Proposal content has been changed and updated which was adviced by my lecturer.)
 
+
 # 1.	BRIEF HISTORY (PART 3)
+
 HopeCare Cancer Support and Awareness Centre is an organization specializing in comprehensive psycological, physical and spiritual support services for treating Cancers patients and their families with advanced methods of using digital practices which gives the members the luxury  of having graphical and real-time experiences on how to fight cancer. Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our members.
 Mission and Vision Statement
 
@@ -22,11 +24,13 @@ HopeCare focuses on offering technologically advanced, internationally aligned s
 
 • (I have changed the history to make it fit the originality of my proposal content.)
 
+
  # Target Audience:(PART 3)
  
 The audience demographics would likely be adults and seniors diagnosed with cancer and it is crucial that their family is also part of the audience when doing research and decision-making.
 
 • ( The target audience remains the same. )
+
 
 # 2.	Goals and objectives:(PART 3)
    
@@ -55,6 +59,7 @@ The audience demographics would likely be adults and seniors diagnosed with canc
 
 • ( There has been changes made to the strengths and weaknesses content.)
 
+
 # 4.	Features - NEW UPDATE* (PART 3 )
    
 •	The design feature is very neutral and modern and I will stick to its colours of greys, whites, black and blue.( New color added is blue ).
@@ -77,12 +82,12 @@ The audience demographics would likely be adults and seniors diagnosed with canc
 • ( There has been changes made to this content.)
 
 
-
 # Website Goals and objectives - (PART 3)
 
 The websites goal is to increase their local and international presence and measure the growth of patient reviews to increase the websites crediabilty, brand and leads.
 
 • ( There has been no changes made to this content.)
+
 
 # Key Features and Functionality -  NEW UPDATE* (PART 3)
 
@@ -91,21 +96,30 @@ The website hosting and domain name, the requirements (content writing ) , progr
 
 • ( There has been changes made to this content.)
 
-# Timeline and Milestones - NEW UPDATE* PART 2 
 
-# Week 1: 
+# Timeline and Milestones - NEW UPDATE* (PART 3 )
+
+• Week 1: 
+
 •	Selecting a proposal that has been approved. Gathering information from the website as well as external websites for images and videos .
+
 •	(PART 2) Styling borders, alignment, justify-content and background colors of the images and video.
 
-# Week 2: 
+• Week 2: 
+
 •	Referencing
+
 •	(PART 2) New referenes added, more visuals included, designing the footer and updating the naviagtion bar.
 
-# Week 3: 
+• Week 3: 
+
 •	Begin the basic html formatting structure for the websites features and functionality.
+
 •	(PART 2) Responsive design added, breakpoints, relative units, responsive images and testing/ debugging as well as updating the readme document in Github.
 
 Total: 6 weeks
+
+• ( There has been changes made to this content.)
 
 
 # Part 1 Details - (PART 1)
@@ -119,7 +133,8 @@ Total: 6 weeks
 - HTML Files- index.html; about.html; contact.html; style.css; images; videos
 - GitHub Respository link
 
-# PART 2 Details - NEW UPDATE* PART 2 
+
+# PART 2 Details - NEW UPDATE* (PART 2 )
 
 1. README document has been updated with the feedback from PART 1. There have been various sections in the proposal and the website and they are marked to indicate that there are new updated versions of the POE.
 2. An External CSS Style sheet has been created and links through all pages.
@@ -131,23 +146,21 @@ Total: 6 weeks
 - Changelog and sitemap has been updated.
 - Submission will be GitHub Respository link ONLY with new updates that have been included.
   
+  • ( New details of part 3 are included.)
 
-# Sitemap - NEW UPDATE* PART 2
+# Sitemap - NEW UPDATE* (PART 3)
 
 HopeCare Cancer Support & Awareness Centre's sitemap ( Digram created in word document) (PART 1)
 (PART 2) I have made changes to the sitemaps layout . The sitemap originally had images and a video on the index page and now i have added its location, services, social media links as well as the operating hours. On the about page it only displays the merchandise images and content about the company. I have added two new web pages where one displays the service content on the services page and the other displays booking appointments on the appointments page. The contact page only has the enquiry information since the location has now been moved to the index page. The first image is the origninal sitemmap that i have created in word document and the one beneath the origninal is the new updated version of the sitemap.
+
+• ( There has been changes made to this content.)
 
 # Origninal Sitemap - NEW UPDATE* PART 2
 <img width="570" height="427" alt="image" src="https://github.com/user-attachments/assets/f6fcbf86-d9ef-498b-8efc-5ab485c0eefc" />
 
 
-# NEW UPDATED Sitemap - NEW UPDATE* PART 2
+# NEW UPDATED Sitemap - NEW UPDATE* PART 3
 <img width="886" height="618" alt="image" src="https://github.com/user-attachments/assets/b45c9a01-383d-49c5-9f5e-ba221576b845" />
-
-
-
-
-
 
 
 # Changelog - NEW UPDATE* PART 3
@@ -208,7 +221,7 @@ The websites goal remains the same which is to increase their local and internat
 
 • Week 2:
 
-	(PART 1) Referencing.
+(PART 1) Referencing.
  
 • Week 3: 
 (PART 1) Begin the basic html formatting structure for the websites features and functionality.
@@ -236,26 +249,65 @@ The websites goal remains the same which is to increase their local and internat
 (PART 3) Submitting POE via GitHub.
 
 
-Total: 6 weeks
+• Part 1 Details:
+
+- Building the foundation with project initiation and planning: Propsal content
+- Taregt Organisation : A small business owner cancer support services
+- Website Project Propsal content: Word Document
+- Technical Requirements - HTML & CSS
+- Budget- Visible in the propsal
+- Content Research and Sourcing - This will be the websites references which is visible in the propsal.
+- HTML Files- index.html; about.html; contact.html; style.css; images; videos
+- GitHub Respository link
+
+• PART 2 Details:
+
+- README document has been updated with the feedback from PART 1. There have been various sections in the proposal and the website and they are marked to indicate that there are new updated versions of the POE.
+- An External CSS Style sheet has been created and links through all pages.
+- Responsive styling for mobile devices with a mixture of relative values, media queries and breakpoints are now included appropriately.
+- Content research and sourcing has been updated with added references. New images and layout structure in html.
+- Technical Requirements - HTML & CSS
+- HTML Files: Now has 5 functioning web pages that are labelled; index.html; about.html; services.html; appointments.html and contacts.html. Two new web pages have been added as shown in the new updated version of the sitemap.
+- Responsive images have been included.
+- Changelog and sitemap has been updated.
+- Submission will be GitHub Respository link ONLY with new updates that have been included.
+  
+• Part 3 details:
+- README document has been updated with the feedback from PART 2. There have been various sections in the proposal and the website and they are marked to indicate that there are new updated versions of the POE.
+- External javascript as been added to the html code.
+- Responsive styling remains the same for all devices.
+- Content research and sourcing has been updated with added references. New images and layout structure in html.
+- Technical Requirements - HTML & CSS
+- Responsive images have been included.
+- Changelog and sitemap has been updated.
+- Submission will be GitHub Respository link ONLY with new updates that have been included.
 
 
+• Sitemap:
 
+Originally the digram was created in a word document as part of (PART 1).
+(PART 2) I have made changes to the sitemaps layout . The sitemap originally had images and a video on the index page and now i have added its location, services, social media links as well as the operating hours. On the about page it only displays the merchandise images and content about the company. I have added two new web pages where one displays the service content on the services page and the other displays booking appointments on the appointments page. The contact page only has the enquiry information since the location has now been moved to the index page. The first image is the origninal sitemmap that i have created in word document and the one beneath the origninal is the new updated version of the sitemap.
+The only change I made to the Sitemap is the name/ heading of the Website which is
+HopeCare Cancer Support & Awareness Centre's.(PART 3)
 
+<img width="886" height="618" alt="image" src="https://github.com/user-attachments/assets/b45c9a01-383d-49c5-9f5e-ba221576b845" />
 
+Overall:
 
-
-
-
-
-Website movement tracking (KPIs). (PART 1)
-
-(PART 2) The websites features displays a modern colour scheme of white, blue, black and greys with an artistic navigation bar that has a button selector with a hovering animation setting. More visuals like icons and merchandise images have been added into the website and have been added to the references at the bottom.  New external links to popular social media platforms like Facebook, Twitter and Instagram have been included. A WhatsApp community for social media engagement.(KPI) still needs to be actived towards future plans for the website. The website displays an introductory video on the index page which is a well thought summary about cancer and the saftey measures to follow through when the user proceeds to do the treatment.The organization now offers its own branded merchandise, such as headphones, t-shirts, blankets, and water bottle accessories to track merchandise sales (KPI) to measure the brand interest and community support. Prices will be communicated at the front desk. The patient’s testimonial growth comes from the merchandise brands that they wear publically as they take photos to share the love and support of their jounery to recovery tagging the companies name to measure the number of patient reviews and testimonials on the main website and other media platforms. I have added a two new website pages labelled the services page and the appointments page. The services page shows a brief summary of treatments that the user wishes to do in preparation to make a booking. The appointments page is a detailed layout for users personal information to be inputted when schedulling  for the treatment. Responsive design images have been included to display the layout and the features and fuctionalities of each web page. The prefered device in this instance was a pc/laptop and i have used various screen sizes to diaplay how it will look similarly to that of a mobile device. I understand that there has been difficulty to get the css design on mobile devices and the lecturer instuctured to make use of a pc/ laptop to show the various screen sizes.
-New images have been added to the website and there my references has been updated. These images are on the index page which displays the social media images for links and there are image icons for the services displayed on the services page. I have also updated the sitemaps layout design. I have made a detailed analysis in the sitmap section as well as visuals for a clear understanding. I ahve also summarized the details for part 2 underneath part 1 details. I have also updated the timeline and milestone for part two, making it a total of 6 weeks of working with the POE. There is an update in the design and features as well.
+- The websites features displays a modern colour scheme of white, blue, black and greys with an artistic navigation bar that has a button selector with a hovering animation setting. More visuals like icons and merchandise images have been added into the website and have been added to the references at the bottom.
+- (KPI) still needs to be actived towards future plans for the website. The organization now offers its own branded merchandise, such as headphones, t-shirts, blankets, and water bottle accessories to track merchandise sales (KPI) to measure the brand interest and community support. Prices will be communicated at the front desk. The patient’s testimonial growth comes from the merchandise brands that they wear publically as they take photos to share the love and support of their jounery to recovery tagging the companies name to measure the number of patient reviews and testimonials on the main website and other media platforms.
+- I have added a two new website pages labelled the services page and the appointments page. The services page shows a brief summary of treatments that the user wishes to do in preparation to make a booking. The appointments page is a detailed layout for users personal information to be inputted when schedulling  for the treatment.
+- Responsive design images have been included to display the layout and the features and fuctionalities of each web page. The prefered device in this instance was a pc/laptop and I have used various screen sizes to diaplay how it will look similarly to that of a mobile device. I understand that there has been difficulty to get the css design on mobile devices and the lecturer instuctured to make use of a pc/ laptop to show the various screen sizes.
+- New images have been added to the website and there my references has been updated. These images are on the index page which displays the social media images for links and there are image icons for the services displayed on the services page.
+- I have also updated the sitemaps layout design. I have made a detailed analysis in the sitemap section as well as visuals for a clear understanding. I have also summarized the details for part 1, 2 and 3.
+- I have also updated the timeline and milestone for part three, making it a total of 9 weeks of working with the POE. There is an update in the design and features as well.
+- Javascript code, SEO and form elements and validation has been included in PART 3.
 
 # Responsive Design - NEW UPDATE* PART 2
 
 I have screenshot evidents of how the webiste will look on different screen settings when its in full, in half and in quarter screen versions. I will first send the full and half version of the index page.
 There has been difficulty to upload the css on a mobile device and therefore i have made the screen to be quarter size which is the closest resemblance to a mobile screen.
+
 
 # Index page in Full version.
 <img width="1877" height="895" alt="image" src="https://github.com/user-attachments/assets/5273c8b8-bb44-4080-993e-77dee951115b" />
@@ -306,7 +358,6 @@ There has been difficulty to upload the css on a mobile device and therefore i h
 <img width="927" height="895" alt="image" src="https://github.com/user-attachments/assets/31026ed3-48fe-4ee2-a8fa-c6d649923d54" />
 
 
-
 # Contact page in Full version.
 
 <img width="1853" height="891" alt="image" src="https://github.com/user-attachments/assets/54be4715-f7d0-4aab-a20e-af56f221901f" />
@@ -317,10 +368,6 @@ There has been difficulty to upload the css on a mobile device and therefore i h
 
 # Quarter screen version of the index page.
 <img width="766" height="907" alt="image" src="https://github.com/user-attachments/assets/efd2618b-cdad-4be8-ab9b-035d6e1652cb" />
-
-
-
-
 
 
 # References - NEW UPDATE* PART 2
