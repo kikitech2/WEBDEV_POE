@@ -144,8 +144,13 @@ The Mission and Vision Statement of HopeCare focuses on offering technologically
 
 • Target Audience:
 
-Remains the same.It would most likely be adults and seniors diagnosed with cancer and it is crucial that their family is also part of the audience when doing research and decision-making.
+Remains the same. It would most likely be adults and seniors diagnosed with cancer and it is crucial that their family is also part of the audience when doing research and decision-making.
 
+• Goals and Objectives:
+There is no change in the goals and objectives solutions as the goal is to aways improve the websites functionality and user experience. It will need a website trafficker to strategize the websites most popular social media interactions.To increase their local and international presence, they should create external links to popular social media platforms like Instagram and TikTok and also consider starting a WhatsApp community for social media engagement.(KPI)
+The website could display more videos that shows how they use their technology and machinery during consultations and surgeries, making the organization seem more friendly and approachable.
+The organization could design and offer its own branded merchandise, such as headphones, t-shirts, blankets, and water bottles accessories to track merchandise sales (KPI) to measure the brand interest and community support.
+An effective KPIs will be the patient’s testimonial growth that measures the number of patient reviews and testimonials on the main website and other media platforms. This will make the website loop more active and trustworthy. ( This is my orignial plan for my webiste.)
 
 
 Website movement tracking (KPIs). (PART 1)
