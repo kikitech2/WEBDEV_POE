@@ -18,11 +18,15 @@
 HopeCare Cancer Support and Awareness Centre is an organization specializing in comprehensive psycological, physical and spiritual support services for treating Cancers patients and their families with advanced methods of using digital practices which gives the members the luxury  of having graphical and real-time experiences on how to fight cancer. Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our patients.
 Mission and Vision Statement
 
-HopeCare focuses on offering technologically advanced, internationally aligned support services. At HopeCare, our mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families. Our vision is to be a leader in innovative, high-quality cancer services, treating both cancerous and non-cancerous conditions with a collaborative team of professional doctors, therapists, guest speakers, the community, and our fitness instructors. 
+HopeCare focuses on offering technologically advanced, internationally aligned support services. At HopeCare, our mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families. Our vision is to be a leader in innovative, high-quality cancer services, treating both cancerous and non-cancerous conditions with a collaborative team of professional doctors, therapists, guest speakers, the community, and our fitness instructors.
+
+• (I have changed the history to make it fit the originality of my proposal content.)
 
  # Target Audience:(PART 1)
  
 The audience demographics would likely be adults and seniors diagnosed with cancer and it is crucial that their family is also part of the audience when doing research and decision-making.
+
+• ( The target audience remians the same. )
 
 # 2.	Goals and objectives:(PART 1)
    
