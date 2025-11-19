@@ -14,21 +14,21 @@
 
 (Proposal content has been changed and updated which was adviced by my lecturer.)
 
-# 1.	BRIEF HISTORY (PART 1)
-HopeCare Cancer Support and Awareness Centre is an organization specializing in comprehensive psycological, physical and spiritual support services for treating Cancers patients and their families with advanced methods of using digital practices which gives the members the luxury  of having graphical and real-time experiences on how to fight cancer. Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our patients.
+# 1.	BRIEF HISTORY (PART 3)
+HopeCare Cancer Support and Awareness Centre is an organization specializing in comprehensive psycological, physical and spiritual support services for treating Cancers patients and their families with advanced methods of using digital practices which gives the members the luxury  of having graphical and real-time experiences on how to fight cancer. Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our members.
 Mission and Vision Statement
 
 HopeCare focuses on offering technologically advanced, internationally aligned support services. At HopeCare, our mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families. Our vision is to be a leader in innovative, high-quality cancer services, treating both cancerous and non-cancerous conditions with a collaborative team of professional doctors, therapists, guest speakers, the community, and our fitness instructors.
 
 • (I have changed the history to make it fit the originality of my proposal content.)
 
- # Target Audience:(PART 1)
+ # Target Audience:(PART 3)
  
 The audience demographics would likely be adults and seniors diagnosed with cancer and it is crucial that their family is also part of the audience when doing research and decision-making.
 
 • ( The target audience remains the same. )
 
-# 2.	Goals and objectives:(PART 1)
+# 2.	Goals and objectives:(PART 3)
    
 •	It will need a website trafficker to strategize the websites most popular social media interactions.
 
@@ -43,36 +43,53 @@ The audience demographics would likely be adults and seniors diagnosed with canc
 • ( There are no changes in the goals and the objectives of the proposal content.)
 
 
-# 3.	Strengths and weakness (PART 1)
+# 3.	Strengths and weakness (PART 3)
    
 •	The website features a modern colour scheme and artistic navigation, but it lacks a variety of social media engagement.
-•	Dr. Kathan who manages a family doctor business has a website that guided me on how to build my own cancer awareness website as well as important information about cancer and how to embrace cancer patients.
-•	The main website displays no membership reviews, making it appear inactive. It needs regular updates to include more feedback and reflect ongoing operations.
-•	The site provides valuable content, including service packages on the various cancer therapies and treatments.
 
-# 4.	Features - NEW UPDATE* PART 2 
+•	Dr. Kathan who manages a family doctor business has a website that guided me on how to build my own cancer awareness website as well as important information about cancer and how to embrace cancer patients.
+
+•	The main website displays no membership reviews, making it appear inactive. It needs regular updates to include more feedback and reflect ongoing operations.
+
+•	The site provides valuable content, including service packages on the various cancer therapies and treatments. 
+
+• ( There has been changes made to the strengths and weaknesses content.)
+
+# 4.	Features - NEW UPDATE* (PART 3 )
    
 •	The design feature is very neutral and modern and I will stick to its colours of greys, whites, black and blue.( New color added is blue ).
+
 •	However, the navigation section is very bright and I will change it to a softer tone to fit in with the colour scheme.
+
 •	I want to add in visuals and videos of how radiotherapy and other therapies perform to give users a better experience about the website.
 
+• ( There has been changes made to this content.)
 
 
-# 5.	Design -  NEW UPDATE* PART 2 
+# 5.	Design -  NEW UPDATE* (PART 3)
    
 •	(PART 2)I made changes like to the colour scheme. Orignally it was to be kept just white and grey but i have included light colors like blue and a dark black color. The design layout has been changed as i have stated in part 1 that i will be changing the design layout of the website. I have included animation visuals that appears trendy, modern and also eye catching to the user. 
+
 •	There will be a single YouTube video made available to the user that finds difficulty being overwhelmed by lots of information.
+
 •	I will also incorporate cancer awareness t-shirt designs in the merchandise section of the website.
 
+• ( There has been changes made to this content.)
 
-# Website Goals and objectives - (PART 1)
+
+
+# Website Goals and objectives - (PART 3)
 
 The websites goal is to increase their local and international presence and measure the growth of patient reviews to increase the websites crediabilty, brand and leads.
 
-#Key Features and Functionality -  NEW UPDATE* PART 2 
+• ( There has been no changes made to this content.)
+
+# Key Features and Functionality -  NEW UPDATE* (PART 3)
 
 The website hosting and domain name, the requirements (content writing ) , programming languages ( basic html) and frameworks ( sitemap and wireframes) are all technical requirements to be featured on the part of the POE.
 (PART 2) New CSS Style sheet ( Design, Typography Styles, Layout structure, Visual Styles, Resonsive Design, images, a video)
+
+• ( There has been changes made to this content.)
 
 # Timeline and Milestones - NEW UPDATE* PART 2 
 
@@ -142,7 +159,7 @@ My student information remains the same.
 
 • Proposal Overview / Brief history:
 
-With the help from my lecturer, I had to create my analyse of what my business is about and make ammendments to the brief history of the business. I mentioned that i have changed the project titel of my website and the prosoal content to HopeCare Cancer Support & Awareness centre. It is an organization specializing in comprehensive psycological, physical and spiritual support services for treating Cancers patients and their families with advanced methods of using digital practices which gives the members the luxury  of having graphical and real-time experiences on how to fight cancer. Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our patients.
+With the help from my lecturer, I had to create my analyse of what my business is about and make ammendments to the brief history of the business. I mentioned that i have changed the project titel of my website and the prosoal content to HopeCare Cancer Support & Awareness centre. It is an organization specializing in comprehensive psycological, physical and spiritual support services for treating Cancers patients and their families with advanced methods of using digital practices which gives the members the luxury of having graphical and real-time experiences on how to fight cancer. Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our members.
 The Mission and Vision Statement of HopeCare focuses on offering technologically advanced, internationally aligned support services. Our mission is to provide comprehensive care that addresses the physical, psychological, and spiritual needs of patients and their families. Our vision is to be a leader in innovative, high-quality cancer services, treating both cancerous and non-cancerous conditions with a collaborative team of professional doctors, therapists, guest speakers, the community, and our fitness instructors. (PART 3)
 
 • Target Audience:
@@ -151,12 +168,81 @@ Remains the same. It would most likely be adults and seniors diagnosed with canc
 
 • Goals and Objectives:
 
-There is no change in the goals and objectives solutions as the goal is to aways improve the websites functionality and user experience. It will need a website trafficker to strategize the websites most popular social media interactions. To increase their local and international presence, they should create external links to popular social media platforms like Instagram and TikTok and also consider starting a WhatsApp community for social media engagement.(KPI) 
-The website could display more videos that shows how they use their technology and machinery during consultations and surgeries, making the organization seem more friendly and approachable.
-The organization could design and offer its own branded merchandise, such as headphones, t-shirts, blankets, and water bottles accessories to track merchandise sales (KPI) to measure the brand interest and community support.
-An effective KPIs will be the patient’s testimonial growth that measures the number of patient reviews and testimonials on the main website and other media platforms. This will make the website loop more active and trustworthy. ( This is my orignial plan for my webiste.)
+There is no change in the goals and objectives solutions, as the goal is to always improve the websites functionality and user experience. It will need a website trafficker to strategize the websites most popular social media interactions. The website needs to increase their local and international presence, and therefore should create external links to popular social media platforms like Instagram and TikTok and also consider starting a WhatsApp community for social media engagement.(KPI) 
+The website could display more videos that shows how they use their technology and machinery during consultations and surgeries stimulations, making the organization seem more friendly and approachable.
+The organization could design and offer its own branded merchandise, such as headphones, t-shirts, blankets, and water bottle accessories to track merchandise sales (KPI) to measure the brand interest and community support.
+An effective KPIs will be the patient’s testimonial growth that measures the number of patient reviews and testimonials on the main website and other media platforms. This will make the website look more active and trustworthy. ( This is my orignial plan for my webiste.)
 
-• Strengths and Weaknesses
+• Strengths and Weaknesses:
+
+There has been changes within the criteria of this section whereas the website featured a modern colour scheme of blue, white, grey and black, as well as an artistic navigation scheme. What weakens the website is the lack of social media engagement. The strengths of the website comes from Dr. Kathan who manages a family doctor business and his website inspired me to build my own cancer awareness website and it comes with supporting information about cancer and how to embrace cancer patients. The weakness of the website is that it displays no membership reviews, making it appear inactive. It needs regular updates to include more feedback and reflect ongoing operations. The strengths of the website provides valuable content, including service packages on the various cancer therapies and treatments.
+
+• Features:
+
+There has been changes made to the features of the website. The design feature is very neutral and modern. I kept to its original colours of greys, whites, black and blues. However, the navigation section was very bright and I changed it to a softer tone of blue to fit in with the colour scheme.
+I added more visuals and removed the video in the index page as it would not work due to youtubes security enhancements, as the initial idea was to give users a better experience about the website.
+
+
+• Design :
+
+I made changes to the colour scheme. Orignally it was to be kept just white and grey but i have included light colors like blue and dark colours like black. The design layout has been changed as I have stated in part 2. I have included animation visuals that appears trendy, modern and also eye catching to the user. There will be no YouTube video made available to the user as its security enhancements would not grant me the permission to do so and I have tried various solutions in order to make it work, but unfortunately it could not. I have incorporated cancer awareness t-shirt designs in the merchandise section of the about page in the website.
+
+• Website Goals and objectives:
+
+The websites goal remains the same which is to increase their local and international presence and measure the growth of membership reviews to increase the websites crediabilty, brand and leads.
+
+• Key Features and Functionalities:
+
+• (PART 1) The website hosting and domain name, the requirements (content writing ) , programming languages ( basic html) and frameworks ( sitemap and wireframes) are all technical requirements to be featured on the part 1 of the POE.
+
+• (PART 2) New CSS Style sheet ( Design, Typography Styles, Layout structure, Visual Styles, Resonsive Design, images)
+
+• (PART 3) New JavaScript page ( Java programming, SEO, Forms, HTML code, Java validation and element forms)
+
+
+•Timeline and Milestones: 
+
+• Week 1: 
+
+(PART 1) Selecting a proposal that has been approved by the previous lecturer and gathering information from research website as well as external websites for images and videos .
+
+• Week 2:
+
+	(PART 1) Referencing.
+ 
+• Week 3: 
+(PART 1) Begin the basic html formatting structure for the websites features and functionality.
+
+• Week 4:
+(PART 2) Styling borders, alignment, justify-content and background colors of the images and video.
+
+•	Week 5: 
+
+(PART 2) New referenes added, more visuals included, designing the footer and updating the naviagtion bar.
+
+•	Week 6: 
+
+(PART 2) Responsive design added, breakpoints, relative units, responsive images and testing/ debugging as well as updating the readme document in Github.
+
+• Week 7:
+
+(PART 3) Making changes to my part 2 with the advice from my lecturer.
+
+• Week 8:
+
+(PART 3) Updating the changelog and working with my websites javascript, applying SEO, creating form elements, and more functionalities to the HTML code.
+
+• Week 9:
+(PART 3) Submitting POE via GitHub.
+
+
+Total: 6 weeks
+
+
+
+
+
+
 
 
 
