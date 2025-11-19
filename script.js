@@ -1,3 +1,4 @@
+<!-- NEW Javascript file extension has been added to PART 3.-->
 document.addEventListener('DOMContentLoaded', function() {
     
     // --- GENERAL UTILITY FUNCTIONS (Used by multiple forms) ---
