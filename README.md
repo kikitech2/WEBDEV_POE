@@ -1,15 +1,17 @@
 # WEBDE_PART1 ( README HAS BEEN UPDATED FOR PART 2 & 3)
--Project Titel - HopeCare Cancer Support & Awareness Centre
--(There is now a new project titel that replaces the old one.)
+•Project Titel - HopeCare Cancer Support & Awareness Centre
 
--Student information - ST10464927; Smith, K
--(No change in the student information.)
+•(There is now a new project titel that replaces the old one.)
+
+•Student information - ST10464927; Smith, K
+•(No change in the student information.)
 
 # Project Overview - PROPOSAL CONTENT 
+
+
+•HopeCare Cancer Support & Awareness Centre
+
 (Proposal content has been changed and updated which was adviced by my lecturer.)
-
-HopeCare Cancer Support & Awareness Centre
-
 
 # 1.	BRIEF HISTORY (PART 1)
 HopeCare Cancer Support and Awareness Centre is an organization specializing in comprehensive psycological, physical and spiritual support services for treating Cancers patients and their families with advanced methods of using digital practices which gives the members the luxury  of having graphical and real-time experiences on how to fight cancer. Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our patients.
