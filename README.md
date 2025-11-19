@@ -1,16 +1,16 @@
 # WEBDE_PART1 ( README HAS BEEN UPDATED FOR PART 2 & 3)
-•Project Titel - HopeCare Cancer Support & Awareness Centre
+• Project Titel - HopeCare Cancer Support & Awareness Centre
 
 (There is now a new project titel that replaces the old one.)
 
-•Student information - ST10464927; Smith, K
+• Student information - ST10464927; Smith, K
 
 (No change in the student information.)
 
 # Project Overview - PROPOSAL CONTENT 
 
 
-•HopeCare Cancer Support & Awareness Centre
+• HopeCare Cancer Support & Awareness Centre
 
 (Proposal content has been changed and updated which was adviced by my lecturer.)
 
