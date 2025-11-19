@@ -45,10 +45,10 @@ The audience demographics would likely be adults and seniors diagnosed with canc
 
 # 3.	Strengths and weakness (PART 1)
    
-•	The website features a modern colour scheme and artistic navigation, but it lacks a variety of images. It primarily shows the owner, his business, and its location.
-•	I have analysed an oncology website featuring Dr. Kathan who manages a family doctor business with a poorly developed website that has received complaints regarding reception staff and inexperienced doctors. His webiste guided me on how to build my own cancer website as well as important information about cancer and how to embrace cancer patients.
-•	The main website only displays four patient reviews, making it appear inactive. It needs regular updates to include more feedback and reflect ongoing operations.
-•	The site provides valuable content, including news articles on the latest radiotherapy technology and explanations of various cancer therapies and treatments.
+•	The website features a modern colour scheme and artistic navigation, but it lacks a variety of social media engagement.
+•	Dr. Kathan who manages a family doctor business has a website that guided me on how to build my own cancer awareness website as well as important information about cancer and how to embrace cancer patients.
+•	The main website displays no membership reviews, making it appear inactive. It needs regular updates to include more feedback and reflect ongoing operations.
+•	The site provides valuable content, including service packages on the various cancer therapies and treatments.
 
 # 4.	Features - NEW UPDATE* PART 2 
    
@@ -151,12 +151,14 @@ Remains the same. It would most likely be adults and seniors diagnosed with canc
 
 • Goals and Objectives:
 
-There is no change in the goals and objectives solutions as the goal is to aways improve the websites functionality and user experience. It will need a website trafficker to strategize the websites most popular social media interactions.To increase their local and international presence, they should create external links to popular social media platforms like Instagram and TikTok and also consider starting a WhatsApp community for social media engagement.(KPI)
+There is no change in the goals and objectives solutions as the goal is to aways improve the websites functionality and user experience. It will need a website trafficker to strategize the websites most popular social media interactions. To increase their local and international presence, they should create external links to popular social media platforms like Instagram and TikTok and also consider starting a WhatsApp community for social media engagement.(KPI) 
 The website could display more videos that shows how they use their technology and machinery during consultations and surgeries, making the organization seem more friendly and approachable.
 The organization could design and offer its own branded merchandise, such as headphones, t-shirts, blankets, and water bottles accessories to track merchandise sales (KPI) to measure the brand interest and community support.
 An effective KPIs will be the patient’s testimonial growth that measures the number of patient reviews and testimonials on the main website and other media platforms. This will make the website loop more active and trustworthy. ( This is my orignial plan for my webiste.)
 
-• 
+• Strengths and Weaknesses
+
+
 
 
 Website movement tracking (KPIs). (PART 1)
