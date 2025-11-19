@@ -1,18 +1,20 @@
-<!-- NEW UPDATE* I have updated and made changes to my contact page for part 2 to enhance the features and fuctionalities of the new CSS Style Sheet that has now been included. -->
+<!-- I have updated and made changes to my contact page for part 2 to enhance the features and fuctionalities of the new CSS Style Sheet that has now been included. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title> Contact </title>
-<!-- NEW UPDATE* External CSS Style Sheet link added for PART 2-->
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact HopeCare | Send Us an Enquiry</title>
+    <meta name="description" content="Reach out to the HopeCare team with any general enquiries or requests for more information. We are here to assist you quickly and effectively.">
+    <meta name="keywords" content="Contact Cancer Support, HopeCare Email, Send Message, Cancer Enquiry Form, General Contact">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<link rel="stylesheet" href="style.css">
+
+
 </head>
 <body>
-<!-- NEW UPDATE* Navigation bar now consists of 5 Webpages which was previously 3 web pages. I have included two new pages which are the Service and Appointment page. (PART 2)-->
-<!-- CSS covers the header, image, divider and navigation class-->
   <header class="navbar">
-    <img class="logo-image" src="https://th.bing.com/th/id/R.ecc79ae5d12af0fe2128d15fe39b49f8?rik=D7W%2bh79a4Vb%2b1g&riu=http%3a%2f%2fcwadvertising.co.za%2fwp-content%2fuploads%2f2019%2f12%2fKathan-logo.jpg&ehk=o6j4Lmg%2borPTRSUj4tSmXeb9tjkORPI8v9NDtwbzL9o%3d&risl=&pid=ImgRaw&r=0.jpg" alt="logo">
+    <img class="logo-image" src="https://cdn-icons-png.flaticon.com/512/6559/6559752.png" alt="logo">
    <nav>
       <ul class="nav-links">
         <li><a href="index.html">Home</a></li>
@@ -23,31 +25,38 @@
       </ul>
     </nav>
   </header>
+  
+  <section class="contact-section fade-in">
+    <h1>Contact Us</h1>
+    <p>Reach out to us with any enquires to request more information. Our team is happy to assist you.</p>
 
-<!-- NEW UPDATE* Contact Section is now updated with the file extention CSS style sheet. (PART 2) -->
-<!-- CSS covers the Section and form class-->
-  <section class="contact-section fade-in">
-    <h1>Contact Us</h1>
-    <p>Reach out to us with any enquires to request more information. Our team is happy to assist you.</p>
+        <form class="appointment-form" id="contactForm">
+      <label for="name">Full Name</label>
+      <input type="text" id="name" name="name" placeholder="Enter your Full name" required>
 
-<!-- NEW UPDATE* Contact layout for when a user inputs their information to request enquires from the appointment options that the user chooses. (PART 1 BASIC HTML)-->
-<!-- The user is requested to input their full name, email address and a message sent to notify the company of ongoing operations to be scheduled and performed.-->
-    <form class="appointment-form" action="#" method="post">
-      <label for="name">Full Name</label>
-      <input type="text" id="name" name="name" placeholder="Enter your Full name" required>
+      <label for="email">Email Address</label>
+      <input type="email" id="email" name="email" placeholder="EnterYourEmailAddress@example.com" required>
 
-      <label for="email">Email Address</label>
-      <input type="email" id="email" name="email" placeholder="EnterYourEmailAddress@example.com" required>
+      <label for="message">Message</label>
+      <textarea id="message" name="message" rows="5" placeholder="Enter Your message to send..." required></textarea>
 
-      <label for="message">Message</label>
-      <textarea id="message" name="message" rows="5" placeholder="Enter Your message to send..." required></textarea>
+      <button type="submit" class="btn primary">Send Message</button>
+    </form>
 
-      <button type="submit" class="btn primary">Send Message</button>
-    </form>
-  </section>
-<!--NEW UPDATE* Footer has been added. It runs through all the pages. (PART 2) -->
-<!-- CSS covers the footer class-->
-  <footer class="footer fade-in">
-  </footer>
+    <div id="contactResponse" class="response-message" style="display:none;">
+    </div>
+    
+        <div class="map-container fade-in">
+    <h2>Our Location</h2>
+    <div id="interactiveMap" style="height: 400px; width: 100%;"></div> 
+    <p>We are located at: 1324 Healthway Ave, Springfield, Cape Town</p>
+    </div>
+  </section>
+  <footer class="footer fade-in">
+  </footer>
+  
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script> 
+  
+    <script src="script.js"></script>
 </body>
 </html>
