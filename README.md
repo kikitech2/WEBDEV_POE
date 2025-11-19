@@ -301,7 +301,7 @@ Overall:
 - New images have been added to the website and there my references has been updated. These images are on the index page which displays the social media images for links and there are image icons for the services displayed on the services page.
 - I have also updated the sitemaps layout design. I have made a detailed analysis in the sitemap section as well as visuals for a clear understanding. I have also summarized the details for part 1, 2 and 3.
 - I have also updated the timeline and milestone for part three, making it a total of 9 weeks of working with the POE. There is an update in the design and features as well.
-- Javascript code, SEO and form elements and validation has been included in PART 3.
+-  New Javascript code added to html code, SEO and form elements and validation has been included in PART 3.
 
 # Responsive Design - NEW UPDATE* PART 2
 
