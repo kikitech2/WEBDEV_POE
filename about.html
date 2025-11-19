@@ -1,17 +1,19 @@
-<!-- NEW UPDATE* I have updated and made changes to my about page for part 2 to enhance the features and fuctionalities of the new CSS Style Sheet that has now been included. -->
+<!-- I have updated and made changes to my about page for part 2 to enhance the features and fuctionalities of the new CSS Style Sheet that has now been included. -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
-<!--  NEW UPDATE* External CSS Style Sheet link added for PART 2-->
+    <title>About HopeCare & Our Mission and Community Involvement</title>
+    <meta name="description" content="Learn about HopeCare's mission in cancer awareness and support, operating in Cape Town since 2025. Discover our community involvement and merchandise for support.">
+    <meta name="keywords" content="HopeCare Mission, Cancer Awareness Organization, Cancer Support Cape Town, Merchandise for Cancer, Community Support">
+<!--  NEW External CSS Style Sheet link added for PART 2-->
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<!-- NEW UPDATE* Navigation bar now consists of 5 Webpages which was previously 3 web pages. I have included two new pages which are the Service and Appointment page. (PART 2)-->
+<!-- NEW Navigation bar now consists of 5 Webpages which was previously 3 web pages. I have included two new pages which are the Service and Appointment page. (PART 2)-->
     <header class="navbar">
-        <img class="logo-image" src="https://th.bing.com/th/id/R.ecc79ae5d12af0fe2128d15fe39b49f8?rik=D7W%2bh79a4Vb%2b1g&riu=http%3a%2f%2fcwadvertising.co.za%2fwp-content%2fuploads%2f2019%2f12%2fKathan-logo.jpg&ehk=o6j4Lmg%2borPTRSUj4tSmXeb9tjkORPI8v9NDtwbzL9o%3d&risl=&pid=ImgRaw&r=0.jpg" alt="logo">
+        <img class="logo-image" src="https://cdn-icons-png.flaticon.com/512/6559/6559752.png" alt="logo">
         <nav>
             <ul class="nav-links">
                 <li><a href="index.html">Home</a></li>
@@ -22,29 +24,29 @@
             </ul>
         </nav>
     </header>
-<!-- NEW  UPDATE* About Section has been added to PART 2.-->
+<!-- NEW About Section has been added to PART 2.-->
 <!-- Div class holds content about the campany. Section class creates a smooth animation of the about content.-->
     <div class="container">
         <section class="about-section fade-in">
             <div class="about-text">
-                <h1>About Dr. Kathan</h1>
-                <p>Dr. Louis Kathan founded Kathan Oncology, an organization specializing in neuro-oncology and treating head and neck cancers with advanced methods like stereotactic radiotherapy.</p>
-                <p>Operating since 2009 at Life Vincent Pallotti Hospital in Cape Town, Dr. Kathan provides professional advice and emotional support to his patients.</p>
-                <p>Their vision is to be a leader in innovative, high-quality cancer services, treating both cancerous and non-cancerous conditions with a collaborative team of neurosurgeons.</p>
+                <h1>About HopeCare</h1>
+                <p>HopeCare is a Cancer Awareness organization specializing in support services and treating members with advice , support and guidence for cancers patients and their families with advanced methods in a computering environment.</p>
+                <p>Operating since 2025 in Cape Town, HopeCare provides professional advice and emotional support to our patients.</p>
+                <p>Their vision is to be a leader in innovative, high-quality cancer support services, treating cancerous conditions with a collaborative team of therapists, professors, authors, journalists, fitness instructors and the community.</p>
             </div>
-<!-- NEW UPDATE* Div class holds images of merchandise in the container with css style sheet.-->
+<!-- Div class holds images of merchandise in the container.-->
             <div class="about-images-container">
                 <img src="https://awarenessgallery.com/blog/wp-content/uploads/2019/02/Cancer-Awareness-All-Ribbons-1024x1024.png" alt="Cancer Awareness Merchandise.">
                 <img src="https://i.etsystatic.com/10503194/r/il/8d37d5/772949969/il_fullxfull.772949969_7q5q.jpg" alt="Cancer Awareness Merchandise.">
                 <img src="https://tse2.mm.bing.net/th/id/OIP.8PPWn39biVnEO1CyYjWE6wAAAA?rs=1&pid=ImgDetMain&o=7&rm=3.jpg" alt="Cancer Awareness Merchandise.">
             </div>
         </section>
-<!-- NEW UPDATE* Div class holds container for the merchandise section with css style sheet.-->
+<!-- Div class holds container for the merchandise section.-->
         <section class="merchandise-section">
             <h2>Community and Awareness</h2>
-            <p>At Kathan Oncology, we believe in building a strong community and helping our patients feel confident. We offer Cancer Awareness branded accessories that you can take with you anywhere!</p>
+            <p>At HopeCare, we believe in building a strong community and helping our Members feel confident. We offer Cancer Awareness branded accessories that you can take with you anywhere!</p>
             <ul>
-<!-- NEW UPDATE* Valuable items that can be purchased at the front desk. Typography styling with css style sheet.-->
+<!-- Valuable items that can be purchased at the front desk.-->
                 <li>Cancer Awareness Merchandise</li>
                 <li>Water Bottles</li>
                 <li>Blankets</li>
@@ -55,8 +57,13 @@
             <p>If you are a patient, you get 50% off all items available. Prices are available at our reception.</p>
         </section>
     </div>
-<!--NEW UPDATE* Footer has been added. It runs through all the pages. (PART 2) -->
+    <div id = "lightbox" class="lightbox">
+        <span class="close-btn">&times;</span>
+        <img class="lightbox-content" id="lightboxImage">
+    </div>
+<!--NEW Footer has been added. It runs through all the pages. (PART 2) -->
   <footer class="footer fade-in">
   </footer>
+  <script src ="script.js"></script>
 </body>
 </html>
