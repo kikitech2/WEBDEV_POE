@@ -1,18 +1,20 @@
-<!-- NEW UPDATE* I have updated and made changes to my services page for part 2 to enhance the features and fuctionalities of the new CSS Style Sheet that has now been included. -->
+<!-- I have updated and made changes to my services page for part 2 to enhance the features and fuctionalities of the new CSS Style Sheet that has now been included. -->
 <!DOCTYPE html>
 <html lang="en">
-<!-- NEW UPDATE* SERVICES PAGE ADDED TO PART 2 -->
+<!-- NEW SERVICES PAGE ADDED TO PART 2 -->
   <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title> Services </title>
-<!--  NEW UPDATE* External CSS Style Sheet link added for PART 2-->
+   <title>HopeCare Cancer Support Services | Workshops & Therapy</title>
+    <meta name="description" content="Explore the comprehensive support services offered by HopeCare, including cancer workshops, guest speakers, hormonal therapy, and supportive physical and mental wellness therapy.">
+    <meta name="keywords" content="Cancer Workshops, Hormonal Therapy, Supportive Therapy, Cancer Guest Speakers, HopeCare Services, Oncology Support">
+<!--  NEW External CSS Style Sheet link added for PART 2-->
    <link rel="stylesheet" href="style.css">
   </head>
  <body>
-<!-- NEW UPDATE* Navigation bar now consists of 5 Webpages which was previously 3 web pages. I have included two new pages which are the Service and Appointment page. (PART 2)-->
+<!-- NEW Navigation bar now consists of 5 Webpages which was previously 3 web pages. I have included two new pages which are the Service and Appointment page. (PART 2)-->
   <header class="navbar">
-    <img class="logo-image" src="https://th.bing.com/th/id/R.ecc79ae5d12af0fe2128d15fe39b49f8?rik=D7W%2bh79a4Vb%2b1g&riu=http%3a%2f%2fcwadvertising.co.za%2fwp-content%2fuploads%2f2019%2f12%2fKathan-logo.jpg&ehk=o6j4Lmg%2borPTRSUj4tSmXeb9tjkORPI8v9NDtwbzL9o%3d&risl=&pid=ImgRaw&r=0.jpg" alt="logo">
+    <img class="logo-image" src="https://cdn-icons-png.flaticon.com/512/6559/6559752.png" alt="logo">
     <nav>
       <ul class="nav-links">
         <li><a href="index.html">Home</a></li>
@@ -23,46 +25,33 @@
       </ul>
     </nav>
   </header>
-<!-- NEW UPDATE* Service Section has been added to PART 2.-->
-  <section class="services-section fade-in">
-    <h1>Our Services</h1>
-<!-- NEW UPDATE* Div class is used for the formation of the service cards. These cards display the various Treatments that are done at the company.-->
-<!-- Each service card displays visual icons that pay tribute to the various treatment contents.-->
-    <div class="services-cards">
-<!-- NEW UPDATE* First service card.-->
-      <div class="service-card">
-        <img src="https://icons.veryicon.com/png/o/healthcate-medical/medical-icon/male-doctor.png" alt="Consultation">
-        <h3>Radiotherapy Treatments</h3>
-        <p>A treatment that uses x-ray scans that radiates the tumor bed which can take up to a few days or weeks.Book appointments with our qualified doctors for general health and specialist consultations.</p>
-      </div>
-<!-- NEW UPDATE* Second service card.-->
-      <div class="service-card">
-        <img src="https://cdn-icons-png.flaticon.com/512/2909/2909745.png" alt="Pharmacy">
-        <h3>Chemotherapy Treatments</h3>
-        <p>A treatment that kills all cancer cells in the body that is given according to the patients cancer type or stage. The treatment can be done orally or intravenously. Patients are granted access to prescription medicines, over-the-counter drugs, and professional pharmacy advice. Book appointments with our qualified doctors for general health and specialist consultations.</p>
-      </div>
-<!-- NEW UPDATE* Third service card.-->
-      <div class="service-card">
-        <img src="https://cdn-icons-png.flaticon.com/512/2621/2621710.png" alt="Lab Tests">
-        <h3>Hormonal Therapy</h3>
-        <p>This treatment is reserved hormone sensitve cancers like breast and prostate cancer. The treatment is a tablet that can be taken daily or monthly injections given by the neurosurgeons team. Book appointments with our qualified doctors for general health and specialist consultations.</p>
-      </div>
-<!-- NEW UPDATE* Fourth service card.-->
-      <div class="service-card">
-        <img src="https://cdn.prod.website-files.com/65d42089f527ae4262ec3f32/65d42089f527ae4262ec406c_Hormonal%20Therapy%20Image.png" alt="Vaccinations">
-        <h3>Biological treatments</h3>
-        <p>These are considered to be immunotherapies which are either stimulated intravenously or orally. Book appointments with our qualified doctors for general health and specialist consultations.</p>
-      </div>
-<!-- NEW UPDATE* Fifth service card.-->
-       <div class="service-card">
-        <img src="https://cdn-icons-png.freepik.com/512/9491/9491571.png" alt="Consultation">
-        <h3>Supportive Treatments</h3>
-        <p>Treatments that support the patients immune system from cancer cells in the body. Book appointments with our qualified doctors for general health and specialist consultations.</p>
-      </div>
-    </div>
-  </section>
-<!--NEW UPDATE* Footer has been added. It runs through all the pages. (PART 2) -->
+<!-- NEW Service Section has been added to PART 2.-->
+ <section class="services-section fade-in">
+        <h1>Our Services</h1>
+
+        <div class="filter-controls">
+            <input type="text" id="serviceSearch" placeholder="Search services (e.g., Workshops, Therapy...)">
+            <select id="serviceFilter">
+                <option value="all">Filter by Type</option>
+                <option value="education">Education</option>
+                <option value="medical">Medical</option>
+                <option value="wellness">Wellness</option>
+            </select>
+        </div>
+
+        <div class="services-cards" id="servicesContainer">
+            </div>
+    </section>
+
+    <footer class="footer fade-in">
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
+
+<!--NEW Footer has been added. It runs through all the pages. (PART 2) -->
   <footer class="footer fade-in">
   </footer>
+  <script src="script.js"></script>
 </body>
 </html>
