@@ -1,4 +1,4 @@
-# WEBDE_POE ( README HAS BEEN UPDATED FOR PART 2 & 3)
+# WEBDE_POE ( README HAS BEEN UPDATED FOR PART 3)
 • Project Titel - HopeCare Cancer Support & Awareness Centre
 
 (There is now a new project titel that replaces the old one.)
