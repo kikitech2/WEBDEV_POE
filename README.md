@@ -22,7 +22,7 @@ HopeCare focuses on offering technologically advanced, internationally aligned s
 
  # Target Audience:(PART 1)
  
-•	The audience demographics would likely be adults and seniors diagnosed with cancer and it is crucial that their family is also part of the audience when doing research and decision-making.
+The audience demographics would likely be adults and seniors diagnosed with cancer and it is crucial that their family is also part of the audience when doing research and decision-making.
 
 # 2.	Goals and objectives:(PART 1)
    
